@@ -1,0 +1,1981 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Table1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Error_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_DateTime" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Error_Description" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Source" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Stack_Trace" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Caused_By_Method" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_1" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_2" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_3" type="xs:string" minOccurs="0" />
+                <xs:element name="NombreUsuario" type="xs:string" minOccurs="0" />
+                <xs:element name="HostName" type="xs:string" minOccurs="0" />
+                <xs:element name="IPAddress" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T12:21:39.8038716-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T13:43:14.9055852-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T13:47:47.4005018-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T13:52:21.6340375-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T13:56:54.5023011-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:01:25.2203855-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:06:01.8591169-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:10:33.538617-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:19:40.8307113-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:24:13.058943-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:28:47.0482955-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:33:17.37556-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:37:50.0928815-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:42:17.3575207-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:46:48.4807517-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:51:15.9140944-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T14:55:44.3944648-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:00:13.9098896-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:04:42.4743032-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:09:12.5485968-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:22:37.2597655-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:27:07.8931877-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:31:45.7336514-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:36:16.0506482-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:40:47.3291331-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T15:45:18.2070319-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T16:12:57.4860468-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T16:27:15.8665401-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T16:49:58.4987704-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:08:14.3924756-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:12:48.2367676-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:17:22.2351294-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:21:57.7435634-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:26:31.4461199-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:31:07.673291-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:35:38.0730822-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T17:40:12.7050149-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T18:56:46.9928827-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T18:58:30.7512706-05:00</Error_DateTime>
+    <Error_Description>No se puede reconocer la cadena como un tipo booleano válido.</Error_Description>
+    <Error_Source>mscorlib</Error_Source>
+    <Error_Stack_Trace>   en System.Boolean.Parse(String value)
+   en System.String.System.IConvertible.ToBoolean(IFormatProvider provider)
+   en AplicacionSistemaVentura.PAQ03_Ejecucion.EjecGestionOT.ActualizarEstadoOTTarea_Click(Object sender, RoutedEventArgs e) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\PAQ03-Ejecucion\EjecGestionOT.xaml.cs:línea 5565</Error_Stack_Trace>
+    <Error_Caused_By_Method>Boolean Parse(System.String)</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T19:08:24.4480919-05:00</Error_DateTime>
+    <Error_Description>Error en el nivel del transporte al recibir los resultados del servidor. (provider: TCP Provider, error: 0 - Se agotó el tiempo de espera del semáforo.)</Error_Description>
+    <Error_Source>.Net SqlClient Data Provider</Error_Source>
+    <Error_Stack_Trace>   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   en System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   en System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   en System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   en System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte&amp; value)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en Data.D_TablaMaestra.TablaMaestra_Combo(E_TablaMaestra E_TablaMaestra) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\Data\D_TablaMaestra.cs:línea 19
+   en Business.B_TablaMaestra.TablaMaestra_Combo(E_TablaMaestra E_TablaMaestra) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\Business\B_TablaMaestra.cs:línea 14
+   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 240</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T19:12:16.493228-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T19:21:20.0151078-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T19:30:32.9557194-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T19:34:58.9619283-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T20:09:48.0764987-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T20:18:47.32362-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T20:42:13.802449-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T20:52:41.5520247-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T20:57:15.3037397-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:01:49.2398825-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:06:20.7434987-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:15:26.8167711-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:20:02.7442003-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:24:35.2982659-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:29:13.8430259-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:33:44.8071511-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:38:18.4848259-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:42:50.6417047-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:47:22.4072888-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T21:51:54.4778282-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:01:01.7568991-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:05:33.9132764-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:14:42.1707927-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:19:14.9440104-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:23:46.6383568-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:28:18.9391903-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:32:52.2284571-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:37:28.5376074-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:42:00.0535939-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:46:34.0522479-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:51:05.3339108-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T22:55:41.1695759-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:00:14.3659842-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:04:46.4459299-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:09:20.4431932-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:13:52.7742691-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:18:25.2441646-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:22:57.3065112-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:27:32.5104843-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:32:04.6725278-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:36:40.4301382-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:41:15.4590192-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:41:55.5007454-05:00</Error_DateTime>
+    <Error_Description>Error en el nivel del transporte al recibir los resultados del servidor. (provider: TCP Provider, error: 0 - Se agotó el tiempo de espera del semáforo.)</Error_Description>
+    <Error_Source>.Net SqlClient Data Provider</Error_Source>
+    <Error_Stack_Trace>   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   en System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   en System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   en System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   en System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte&amp; value)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en Data.D_TablaMaestra.TablaMaestra_Combo(E_TablaMaestra E_TablaMaestra) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\Data\D_TablaMaestra.cs:línea 19
+   en Business.B_TablaMaestra.TablaMaestra_Combo(E_TablaMaestra E_TablaMaestra) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\Business\B_TablaMaestra.cs:línea 14
+   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 240</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:42:32.0790525-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:43:14.5978196-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:43:35.2272758-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:43:57.9465906-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:44:21.070099-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:44:43.1139478-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:45:05.1595649-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:45:29.4928674-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:45:51.3292053-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:46:13.10719-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:46:16.1144737-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:46:37.3134008-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:46:59.9690145-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:47:22.8362688-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:47:47.3129179-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:48:09.809704-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:48:31.8727745-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:48:56.0215049-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:49:18.7916145-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:49:43.5117711-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:50:04.1967026-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:50:27.6743773-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:50:51.9464202-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:51:13.7533054-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:51:36.9137794-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:52:00.345724-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:52:23.382724-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:52:45.6520425-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:53:09.3992776-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:53:32.6358024-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:53:55.2056043-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:54:19.1376481-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:54:41.3092747-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:55:05.9258716-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:55:25.5609497-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:55:27.289597-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:55:51.3973608-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:56:15.3247991-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:56:36.9880437-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:57:01.5846845-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:57:24.0562898-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:57:48.0627609-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:58:10.1453637-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:58:31.3174099-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:58:56.26038-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:59:18.3758053-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-01-10T23:59:41.7591705-05:00</Error_DateTime>
+    <Error_Description>El subproceso que realiza la llamada no puede obtener acceso a este objeto porque el propietario es otro subproceso.</Error_Description>
+    <Error_Source>WindowsBase</Error_Source>
+    <Error_Stack_Trace>   en System.Windows.Threading.Dispatcher.VerifyAccess()
+   en System.Windows.Controls.TextBlock.set_Text(String value)
+   en AplicacionSistemaVentura.InterfazPrincipal.Mensaje(String strMensaje, Int32 intTipo) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 492</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerifyAccess()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>2800:4b0:4430:6cd4:b4a8:981c:96be:2</IPAddress>
+  </Table1>
+</NewDataSet>

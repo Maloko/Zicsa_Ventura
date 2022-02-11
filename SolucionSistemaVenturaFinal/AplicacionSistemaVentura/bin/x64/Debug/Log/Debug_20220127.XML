@@ -1,0 +1,1231 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Table1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Metodo" type="xs:string" minOccurs="0" />
+                <xs:element name="Parametros" type="xs:string" minOccurs="0" />
+                <xs:element name="FechaHora" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NombreUsuario" type="xs:string" minOccurs="0" />
+                <xs:element name="HostName" type="xs:string" minOccurs="0" />
+                <xs:element name="IPAddress" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Metodo>Ciclo_List</Metodo>
+    <Parametros>IdCiclo = 0, IdTipoCiclo = 0, Ciclo = 0, IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, FechaCreacion = , HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = , HostModificacion = </Parametros>
+    <FechaHora>2022-01-27T08:36:03.5659072-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:36:06.6051887-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:36:06.7712677-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Ciclo_List</Metodo>
+    <Parametros>IdCiclo = 0, IdTipoCiclo = 0, Ciclo = 0, IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, FechaCreacion = , HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = , HostModificacion = </Parametros>
+    <FechaHora>2022-01-27T08:38:35.9325813-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:38:36.7425982-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:38:36.8036405-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:38:50.2400932-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:38:56.6579123-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:39:01.5632732-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Tarea_ComboByAct</Metodo>
+    <Parametros>IdTarea = 0, CodTarea = , Tarea = , IdActividad = 0, IdEstadoT = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:39:05.8220534-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = PERFIL 662, Idtipounidad = TP, IdPerfilNeumatico = 0, IdEstadoP = 1, FlagActivo = True, IdUsuarioCreacion = 1, IdUsuarioModificacion = 1</Parametros>
+    <FechaHora>2022-01-27T08:39:58.2988793-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_InsertMasivo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = PERFIL 662, Idtipounidad = TP, IdPerfilNeumatico = 0, IdEstadoP = 1, FlagActivo = True, IdUsuarioCreacion = 1, IdUsuarioModificacion = 1</Parametros>
+    <FechaHora>2022-01-27T08:39:58.3923912-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:39:58.5969459-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:02.4572775-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:03.3915742-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:05.3794035-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:06.3032737-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:10.7793275-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_GetItem</Metodo>
+    <Parametros>IdPerfil = 85, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:10.9490456-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Ciclo_List</Metodo>
+    <Parametros>IdCiclo = 0, IdTipoCiclo = 0, Ciclo = 0, IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, FechaCreacion = , HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = , HostModificacion = </Parametros>
+    <FechaHora>2022-01-27T08:40:23.5608373-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:24.4276234-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T08:40:24.470642-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Ciclo_List</Metodo>
+    <Parametros>IdCiclo = 0, IdTipoCiclo = 0, Ciclo = 0, IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, FechaCreacion = , HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = , HostModificacion = </Parametros>
+    <FechaHora>2022-01-27T09:08:30.9031147-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:31.8366108-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:31.9078505-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:41.9571495-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:42.8860499-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:44.9912122-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:46.1914368-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:51.1057879-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_GetItem</Metodo>
+    <Parametros>IdPerfil = 85, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:51.2447301-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:08:54.7774809-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_GetBeforeChange</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 0, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:10:00.5432513-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_UpdateCascade</Metodo>
+    <Parametros>CodUC = JUM-662, IdPerfil = 85, IdPerfilNeumatico = 0, IdTipoUnidad =TP, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =JUM-662, FlagActivo = 0, IdUsuarioCreacion = 1, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:19.5124387-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:19.9212812-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:20.8435146-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:20.9015518-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:21.798469-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:21.872428-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:22.800254-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PM_List</Metodo>
+    <Parametros>IdPM = 0, CodPM = , PM = , IdPerfil =0, Porc01 =0, Porc02 = 0, IdTipoOTDefecto =0, IdEstadoPM =0, Prioridad = 0, FlagActivo = True, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:42.5157348-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:42.5597386-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_GetItem</Metodo>
+    <Parametros>IdPerfil = 85, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:49.2585737-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:12:49.3021734-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_InsertMasivo</Metodo>
+    <Parametros>IdPM = 0, CodPM = , PM = MANT 662, IdPerfil =85, Porc01 =20, Porc02 = 10, IdTipoOTDefecto =1, IdEstadoPM =1, Prioridad = 1, FlagActivo = True, IdUsuarioCreacion = 1, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:13:31.4626443-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PM_List</Metodo>
+    <Parametros>IdPM = 0, CodPM = , PM = MANT 662, IdPerfil =85, Porc01 =20, Porc02 = 10, IdTipoOTDefecto =1, IdEstadoPM =1, Prioridad = 1, FlagActivo = True, IdUsuarioCreacion = 1, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:13:31.5729208-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_UC_Combo</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:15:05.5706148-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_List</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:15:05.8751482-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:15:12.3288567-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:15:12.3798817-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:15:12.4379114-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HRComp_BeforeCreate</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:13.1622347-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_UpdateCascade</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =4, NombreSolicitanteSAP =MARLON CASTILLO, IdEstadoHR = 1, Observacion =LLEVARLO URGENTE AL MECANICO, IdUsuarioCreacion = 1</Parametros>
+    <FechaHora>2022-01-27T09:16:13.2022352-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_List</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =4, NombreSolicitanteSAP =MARLON CASTILLO, IdEstadoHR = 1, Observacion =LLEVARLO URGENTE AL MECANICO, IdUsuarioCreacion = 1</Parametros>
+    <FechaHora>2022-01-27T09:16:13.2803916-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_UC_Combo</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:16.5974006-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 0, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:17.7232382-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:23.0364456-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:23.0944476-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:23.1533652-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:23.1913709-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_GetItem</Metodo>
+    <Parametros>IdHR = 24, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 0, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.6526175-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.7162819-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.7703315-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.8178991-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HRComp_List</Metodo>
+    <Parametros>IdHR = 24, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 0, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.8629256-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 24, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:25.9925885-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 24, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:26.0673444-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 24, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:31.2626054-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_ComboByPerfil</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:33.8301077-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilDetalle_ComboByPerfil</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:16:33.9081246-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =27/01/2022 09:20:00, FechaHoraFin = 27/01/2022 10:00:00, ContadorIni = 0, ContadorFin = 50, CodSolicitante = 4, CodResponsable = 3, Observacion = LLEVARLO URGENTE AL MECANICO, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:21:00.6003363-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_UC_Combo</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:21:29.9145197-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 0, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:21:31.1427468-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:23:54.3606113-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:23:54.4620503-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:23:55.005202-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdHerramienta = 0, CodHerramienta = , Herramienta = , Observacion = , IdEstadoH = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:23:55.1052946-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:23:56.360499-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_Combo</Metodo>
+    <Parametros>IdOT = 104, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 4, MotivoPostergacion = , Observacion = SDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF, FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 27/01/2022 09:24:01, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:06.6863531-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_GetTreeVieNrSeries</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:06.7506582-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:08.1676712-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 104, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:11.566599-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:33.7463609-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 104, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:37.7704881-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:24:54.3872711-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_UpdateEstado</Metodo>
+    <Parametros>IdOT = 104, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 5, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 1, FechaModificacion = 27/01/2022 09:25:21, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:26:19.5443058-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:26:19.8124-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_UC_Combo</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:29.6941656-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_List</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:29.9088695-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:36.0322891-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:36.1108392-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:36.1939088-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HRComp_BeforeCreate</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:48.8968637-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_UpdateCascade</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =4, NombreSolicitanteSAP =MARLON CASTILLO, IdEstadoHR = 1, Observacion =asdasdasdasdasdasdasdasdasd, IdUsuarioCreacion = 1</Parametros>
+    <FechaHora>2022-01-27T09:33:48.9941999-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_List</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =4, NombreSolicitanteSAP =MARLON CASTILLO, IdEstadoHR = 1, Observacion =asdasdasdasdasdasdasdasdasd, IdUsuarioCreacion = 1</Parametros>
+    <FechaHora>2022-01-27T09:33:49.0861478-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_UC_Combo</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:51.1606758-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 0, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:52.5801421-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:58.2891668-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:58.3567925-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:58.3994239-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 0, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:33:58.501835-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_GetItem</Metodo>
+    <Parametros>IdHR = 25, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 0, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.0788317-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_List</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.1077988-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.1928801-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UCComp_List</Metodo>
+    <Parametros>IdUCComp = 0, IdPerfilComp = 0, IdUC = 61, IdTipoDetalle =0, IdItem =0, NroSerie = , CodigoSAP =, DescripcionSAP =, IdEstadoUCComp = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.2448247-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HRComp_List</Metodo>
+    <Parametros>IdHR = 25, CodHR = , IdUC = 0, FechaHR =01/01/0001 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 0, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.3280629-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 25, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.3486406-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 25, CodHR = , IdUC = 61, FechaHR =01/01/1900 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:00.417216-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_ComboByPerfil</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:04.3205036-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilDetalle_ComboByPerfil</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:04.4358088-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>HR_ComboByFilters</Metodo>
+    <Parametros>IdHR = 25, CodHR = , IdUC = 61, FechaHR =27/01/2022 00:00:00, CodSolicitanteSAP =, NombreSolicitanteSAP =, IdEstadoHR = 1, Observacion =, IdUsuarioCreacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:34:21.4415895-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =28/01/2022 00:00:00, FechaHoraFin = 29/01/2022 00:00:00, ContadorIni = 50, ContadorFin = 100, CodSolicitante = 4, CodResponsable = 3, Observacion = asdasdasdasdasdasdasdasdasd, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:34:21.685162-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =28/01/2022 00:00:00, FechaHoraFin = 29/01/2022 00:00:00, ContadorIni = 50, ContadorFin = 100, CodSolicitante = 4, CodResponsable = 3, Observacion = asdasdasdasdasdasdasdasdasd, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:34:29.0951133-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =27/01/2022 00:00:00, FechaHoraFin = 28/01/2022 00:00:00, ContadorIni = 50, ContadorFin = 100, CodSolicitante = 4, CodResponsable = 3, Observacion = asdasdasdasdasdasdasdasdasd, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:34:39.5771417-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =27/01/2022 00:00:00, FechaHoraFin = 28/01/2022 00:00:00, ContadorIni = 50, ContadorFin = 70, CodSolicitante = 4, CodResponsable = 3, Observacion = asdasdasdasdasdasdasdasdasd, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:34:42.5691673-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>ContadorDet_UpdateProcess</Metodo>
+    <Parametros>IdContadorDet = 0, CodUc = JUM-662, IdOrigenRegistro = 1, IdEvento =1, IdTipoOperacion =1, NroDocOperacion = , IdDocCorregir =0, FechaHoraIni =28/01/2022 00:00:00, FechaHoraFin = 29/01/2022 00:00:00, ContadorIni = 100, ContadorFin = 200, CodSolicitante = 4, CodResponsable = 3, Observacion = asdasdasdasdasdasdasdasdasd, IdUsuario = 1, FechaIni = 01/01/0001 00:00:00, FechaFin = 01/01/0001 00:00:00</Parametros>
+    <FechaHora>2022-01-27T09:35:00.3025806-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:37.0505691-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:37.1631022-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:37:37.7847478-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdHerramienta = 0, CodHerramienta = , Herramienta = , Observacion = , IdEstadoH = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:37:37.85692-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:37:39.3066485-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_Combo</Metodo>
+    <Parametros>IdOT = 105, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 4, MotivoPostergacion = , Observacion = asdasdasdasdasdasd, FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 27/01/2022 09:37:43, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:47.5177963-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_GetTreeVieNrSeries</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:47.5568002-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:48.933518-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 105, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:37:51.9533915-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:38:11.7310505-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 105, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:38:13.8612531-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:38:24.5121304-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_UpdateEstado</Metodo>
+    <Parametros>IdOT = 105, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 5, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 1, FechaModificacion = 27/01/2022 09:38:37, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:38:40.1983781-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:38:40.5438756-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:35.1616012-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:35.2196844-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:40:35.7046096-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdHerramienta = 0, CodHerramienta = , Herramienta = , Observacion = , IdEstadoH = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:40:35.7666137-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Actividad_Combo</Metodo>
+    <Parametros>IdActividad = 0, CodActividad = , Actividad = , IdEstadoActividad = 0, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T09:40:37.2007434-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_Combo</Metodo>
+    <Parametros>IdOT = 106, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 4, MotivoPostergacion = , Observacion = srerererererererer, FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 27/01/2022 09:40:41, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:46.3133347-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OTHerramienta_GetTreeVieNrSeries</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:46.3385307-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:48.2992882-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 106, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:40:53.1281891-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:41:37.4280641-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_Get</Metodo>
+    <Parametros>IdOT = 106, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:41:42.4279277-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:41:57.2284185-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>OT_UpdateEstado</Metodo>
+    <Parametros>IdOT = 106, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 5, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 1, FechaModificacion = 27/01/2022 09:42:11, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:42:11.9409097-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>B_OT_List</Metodo>
+    <Parametros>IdOT = 0, CodOT = , NombreOT = , IdTipoOT = 0, FlagSinUC = 0, IdUC = 0, FechaProg = 01/01/0001 00:00:00, FechaReprog = 01/01/0001 00:00:00, FechaLiber = 01/01/0001 00:00:00, CodResponsable = , NombreResponsable = , IdTipoGeneracion = 0, IdEstadoOT = 0, MotivoPostergacion = , Observacion = , FlagActivo = 0, IdUsuarioCreacion = 0, FechaCreacion = 01/01/0001 00:00:00, HostCreacion = , IdUsuarioModificacion = 0, FechaModificacion = 01/01/0001 00:00:00, CodUC = , IdsOTCompActividadEstado = </Parametros>
+    <FechaHora>2022-01-27T09:42:12.2267572-05:00</FechaHora>
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::9873:76db:ef5e:6819%3</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:28.1422088-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:31.3888859-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:36.0135111-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_Combo</Metodo>
+    <Parametros>IdPerfil = 0, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:36.9483475-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>UC_List</Metodo>
+    <Parametros>CodUC = , IdPerfil = 0, IdPerfilNeumatico = 0, IdTipoUnidad =, IdUc =0, ContadorAcum = 0, Observacion =, PlacaSerie =, FlagActivo = 0, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:41.1687279-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>Perfil_GetItem</Metodo>
+    <Parametros>IdPerfil = 85, Codperfil = , Perfil = , Idtipounidad = , IdPerfilNeumatico = 0, IdEstadoP = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:41.3621312-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+  <Table1>
+    <Metodo>PerfilComp_List</Metodo>
+    <Parametros>IdPerfilComp = 0, CodPerfilComp = , PerfilComp = , IdPerfilCompPadre = 0, IdPerfil = 85, CodigoSAP = , DescripcionSAP = , IdEstadoPC = 0, FlagActivo = False, IdUsuarioCreacion = 0, IdUsuarioModificacion = 0</Parametros>
+    <FechaHora>2022-01-27T23:06:44.3723279-05:00</FechaHora>
+    <NombreUsuario>MCASTILLO</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>fe80::4820:e5a1:801d:df37%14</IPAddress>
+  </Table1>
+</NewDataSet>

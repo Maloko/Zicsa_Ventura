@@ -1,0 +1,314 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Table1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Error_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_DateTime" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Error_Description" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Source" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Stack_Trace" type="xs:string" minOccurs="0" />
+                <xs:element name="Error_Caused_By_Method" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_1" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_2" type="xs:string" minOccurs="0" />
+                <xs:element name="Optional_Text_3" type="xs:string" minOccurs="0" />
+                <xs:element name="NombreUsuario" type="xs:string" minOccurs="0" />
+                <xs:element name="HostName" type="xs:string" minOccurs="0" />
+                <xs:element name="IPAddress" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T11:00:03.5580921-05:00</Error_DateTime>
+    <Error_Description>No se puede encontrar la columna [IdUC].</Error_Description>
+    <Error_Source>System.Data</Error_Source>
+    <Error_Stack_Trace>   en System.Data.NameNode.Bind(DataTable table, List`1 list)
+   en System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   en System.Data.DataExpression.Bind(DataTable table)
+   en System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   en System.Data.DataTable.Select(String filterExpression)
+   en AplicacionSistemaVentura.PAQ02_Planificacion.PlanProgramacionUC.worker_DoWork(Object sender, DoWorkEventArgs e) en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\PAQ02-Planificacion\PlanProgramacionUC.xaml.cs:línea 1494</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void Bind(System.Data.DataTable, System.Collections.Generic.List`1[System.Data.DataColumn])</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T11:59:32.5622711-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T12:21:13.4812105-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T12:30:16.1127309-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T12:39:19.3916434-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T13:49:56.1711134-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T14:17:22.8017681-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T14:31:10.2134454-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T14:54:04.8355175-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T14:58:42.1813876-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:03:15.5193284-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:12:26.0201616-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:17:01.4392202-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:21:40.0824338-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:30:50.1433233-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:35:22.4565552-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:44:30.3768279-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:49:01.8054384-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T15:53:33.8491257-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+  <Table1>
+    <Error_Type>System.Collections.ListDictionaryInternal</Error_Type>
+    <Error_DateTime>2022-02-07T16:15:56.5178682-05:00</Error_DateTime>
+    <Error_Description>Índice fuera de los límites de la matriz.</Error_Description>
+    <Error_Source>AplicacionSistemaVentura</Error_Source>
+    <Error_Stack_Trace>   en AplicacionSistemaVentura.InterfazPrincipal.VerificarAlertas() en D:\Ventura\Repositorios\CELSA\Celsa_Ventura\SolucionSistemaVenturaFinal\AplicacionSistemaVentura\InterfazPrincipal.xaml.cs:línea 243</Error_Stack_Trace>
+    <Error_Caused_By_Method>Void VerificarAlertas()</Error_Caused_By_Method>
+    <Optional_Text_1 />
+    <Optional_Text_2 />
+    <Optional_Text_3 />
+    <NombreUsuario>MANAGER</NombreUsuario>
+    <HostName>LAPTOP-JI98I25C</HostName>
+    <IPAddress>192.168.112.238</IPAddress>
+  </Table1>
+</NewDataSet>
